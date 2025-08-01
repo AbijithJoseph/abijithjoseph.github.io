@@ -7,7 +7,7 @@ permalink: /contactme/
 # Contact Information
 Feel free to contact me for any queries or collaboration
 
-**Name:** Abisheak Jacob J  
-**Email:** abisheakjacob0032@gmail.com    
-**Phone:** +91 94866 70533   
-**LinkedIn:** [https://www.linkedin.com/in/abisheakjacob/](https://www.linkedin.com/in/abisheakjacob/){:target="_blank"}     
+**Name:** Abijith Joseph J  
+**Email:** abijithjoseph982@gmail.com    
+**Phone:** +91 93621 59255   
+**LinkedIn:** [https://www.linkedin.com/in/abijithjoseph/](https://www.linkedin.com/in/abijithjoseph/){:target="_blank"}     

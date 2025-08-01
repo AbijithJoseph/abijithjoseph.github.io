@@ -2,7 +2,7 @@
 layout: categories_work
 title: My Work
 permalink: /mywork/
-author: Abisheak Jacob J
+author: Abijith Joseph J
 author_profile: true
 ---
 

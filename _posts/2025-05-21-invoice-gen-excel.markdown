@@ -2,7 +2,7 @@
 layout: posts
 title:  "Invoice Generator Excel"
 date:   2025-05-21 17:31:57 
-categories: work
+categories: article
 highlight_home: true
 tags: [education]
 description: this is an article about education

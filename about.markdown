@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# Hi! I'm Abisheak Jacob
+# Hi! I'm Abijith Joseph
 
-I am an analytics professional with 1.5 years of experience in managing digital and optimization projects, specializing in operations, supply chain, purchasing, and project management areas. I am skilled in data profiling, dimensional and relational data modeling, requirements gathering, risk & gap analysis, and process optimization. I am eager to leverage my strong data analysis, visualization, and programming skills to contribute to data-driven decision making and support digital transformation initiatives. 
+EHS Professional with a focus on creating a safe and sustainable work environment. A well-organized individual who excels in effective communication, analytical problem-solving, and identifying potential hazards. A quick learner with a passion for maintaining the well-being of both employees and the environment.
 
 ## My Experience
 
